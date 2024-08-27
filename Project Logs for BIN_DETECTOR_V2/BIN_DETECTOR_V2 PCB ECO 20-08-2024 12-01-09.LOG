@@ -1,0 +1,9 @@
+Change Class Name : Old Net Name=Conctivity New Net Name=Conctivity V2
+Change Class Name : Old Net Name=Controller New Net Name=Controller V2
+Change Class Name : Old Net Name=Power Section New Net Name=Power Section V2
+Change Class Name : Old Net Name=PTC Heater New Net Name=PTC Heater V2
+Change Class Name : Old Net Name=RFID New Net Name=RFID V2
+Add Class Member: Failed to add class member : Component J8 APCB
+Add Class Member: Failed to add class member : Component J10 BPCB
+Add Class Member: Failed to add class member : Component J11 SCREW
+Add Class Member: Failed to add class member : Component J12 ENCLOSURE
